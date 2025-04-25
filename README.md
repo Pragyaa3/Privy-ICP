@@ -41,6 +41,10 @@ This implementation aims to be:
 
 ---
 
+## 🔹 Milestone 2: Encrypted User Data Vaults
+
+---
+
 ### 📌 Project Goals
 
 - Build a **Web3-native identity layer** for dApps on ICP
